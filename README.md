@@ -116,11 +116,13 @@ Pie Chart Explaning the Volume distribution of riders on all four bridges
 2. Prediction Model:-
 
 * Scatter graph representing the Temperature and volume relations.
+
 ![image](https://user-images.githubusercontent.com/111125394/227701379-3b7b805d-26d2-4851-ac66-c3c33e36232f.png)
 
 * The dataset is split into 20:80 ratio for Test and Train of the model.
 
 * Predicted dataset graph
+
 ![image](https://user-images.githubusercontent.com/111125394/227701481-1a83fe60-263b-4ef0-8ca2-cfc678f02f2f.png)
 
 * The slope of the graph is found out to be array([366.50234613])
