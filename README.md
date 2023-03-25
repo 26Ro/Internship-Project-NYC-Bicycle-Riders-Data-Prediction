@@ -43,14 +43,59 @@ Standard Deviation for Low Temperature was observed 9.5°F
  
 1. Exploratory Data Analysis
 * Brooklyn Bridge:-
-A). Maximum Daily Bicycle Ridership is turned out to be 3871  on 18/04/2016.
-B). ie. 162riders/Hr
-C). With Higher Temperature of 81°F and Lower Temperature of 51°F.
-D). The Average no of riders crossing Brooklyn Bridge is 2270riders/Day.
-D) The Average Temperature fell by an rider is 60.5°F.
-E). Every third rider crosses the bridge every minute.
-F). The Length of Brooklyn Bridge is 1834m.
-G). That means the average distance between the three bicycle riders per minute is 611.3m.
 
-*
+A). Maximum Daily Bicycle Ridership is turned out to be 3871  on 18/04/2016.
+
+B). ie. 162riders/Hr
+
+C). With Higher Temperature of 81°F and Lower Temperature of 51°F.
+
+D). The Average no of riders crossing Brooklyn Bridge is 2270riders/Day.
+
+E) The Average Temperature fell by an rider is 60.5°F.
+
+F). Every third rider crosses the bridge every minute.
+
+G). The Length of Brooklyn Bridge is 1834m.
+
+H). That means the average distance between the three bicycle riders per minute is 611.3m.
+
+* Manhattan Bridge:-
+
+A).Maximum Daily Bicycle Ridership is turned out to be 6951 on 21/04/2016.
+
+B).ie. 290riders/Hr
+
+C). With Higher Temperature of 71.1°F and Lower Temperature of 50.0°F.
+
+D).The Average no of riders crossing Manhattan Bridge everyday is found out to be 4050riders/Day
+
+E). The Average Temperature fell by an rider is 60.58°F.
+
+F). Every fifth rider crosses the Manhattan Bridge per minute.
+
+* Williamsburg Bridge:-
+
+A). Maximum Daily Bicycle Ridership is turned out to be 7426 on 21/04/2016.
+
+B). ie. 310riders/Hr
+
+C). With Higher Temperature of 71.1°F and Low Temperature of 50°F.
+
+D). The Average no of riders crossing Williamsburg Bridge everyday is found out to be 4863riders/Day.
+
+E).ie. 203riders/Hr
+
+E). The Average Temperature fell by an rider is 60.58°F.
+
+F). Every Fourth rider crosses the Williamsburg Bridge every minute.
+
+* Queensboro Bridge:-
+
+A). Maximum Daily Bicycle Ridership is turned out to be 4813 on 21/04/2016.
+
+B). ie. 200riders/Hr
+
+C).
+
 
