@@ -86,9 +86,9 @@ D). The Average no of riders crossing Williamsburg Bridge everyday is found out 
 
 E).ie. 203riders/Hr
 
-E). The Average Temperature fell by an rider is 60.58°F.
+F). The Average Temperature fell by an rider is 60.58°F.
 
-F). Every Fourth rider crosses the Williamsburg Bridge every minute.
+G). Every Fourth rider crosses the Williamsburg Bridge every minute.
 
 * Queensboro Bridge:-
 
@@ -96,6 +96,19 @@ A). Maximum Daily Bicycle Ridership is turned out to be 4813 on 21/04/2016.
 
 B). ie. 200riders/Hr
 
-C).
+C). With Higher Temperature of 71.1°F.
+
+D). The Average no of riders crossing Queensboro Bridge everyday is found out to be 3353riders/Day.
+
+E). ie. 140riders/Hr
+
+F). The Average Temperature fell by an rider on Queensboro Bridge is found out to be 60.58°F.
+
+G). Every third person is crossing Queensboro Bridge.
+
+
+![image](https://user-images.githubusercontent.com/111125394/227701153-12fa3c72-df03-4c4c-b748-e4e15caeee38.png)
+
+  
 
 
