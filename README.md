@@ -136,7 +136,30 @@ Pie Chart Explaning the Volume distribution of riders on all four bridges
  R2 score of this model is 0.6689033200692344. ie 66%.
  
  Conclusion:-
- 1. 
+ 1. Temperature has a direct impact on the bicycle riders volume.
+ 2. The monthly riders volume is increasing linarly and could increase more with the time.
+ 3. The bridges play an important role in the bicycle riders movement in the whole NYC. Because it provides an important connectivity between the all Nyc region.
+ 4. Future ridership can also predict because the the sample data is collected between August to April. 
+ 5. The August to December are the high precipitation Quarters.
+ 6. April could become a potential starting month for increasing ridership.
+ 
+ Ountcomes:-
+ 1.This EDA and Prediction model could be helpful for various stakeholders of NYC.
+ 
+ * fOR NYPD(New York Police Dpartmnent):-
+ As the prediction model could help the Police departmrnt to manage the traffic in NYC. As prior they have the proper Analysis of the riders volume.
+ 
+ * Bicycle Lending Buisenesses:-
+ They could fix their charges prior based on our Prediction model.
+ 
+ *Cafes:-
+ As a rider needs some halut sapce where he/she can take rest. For which this cafes could restructure their menue according to a leisure driks and snaks.
+ 
+ * TownPlanning and Developement Authorities all over the world:-
+ As the data is just restricted to NYC but various countries can understand the data and the proper infrastructure plan of NYC for their Bicycle riders easy mobility.
   
+####Note###
 
+1.The temperature is given in °F(Farahanite)
+2.NYC stands for New York City
 
