@@ -109,9 +109,32 @@ G). Every third person is crossing Queensboro Bridge.
 Pie Chart Explaning the Volume distribution of riders on all four bridges
 ![image](https://user-images.githubusercontent.com/111125394/227701153-12fa3c72-df03-4c4c-b748-e4e15caeee38.png)
 
-The most bicycle riders crossing the bridge everyday is Williamsburg Bridge with 34%.
-The least bicycle riders crossing the bridge everyday is Brooklyn Bridge with 17%.
+* The most bicycle riders crossing the bridge everyday is Williamsburg Bridge with 34%.
 
+* The least bicycle riders crossing the bridge everyday is Brooklyn Bridge with 17%.
+
+2. Prediction Model:-
+
+* Scatter graph representing the Temperature and volume relations.
+![image](https://user-images.githubusercontent.com/111125394/227701379-3b7b805d-26d2-4851-ac66-c3c33e36232f.png)
+
+* The dataset is split into 20:80 ratio for Test and Train of the model.
+
+* Predicted dataset graph
+![image](https://user-images.githubusercontent.com/111125394/227701481-1a83fe60-263b-4ef0-8ca2-cfc678f02f2f.png)
+
+* The slope of the graph is found out to be array([366.50234613])
+
+* For  Value of Higher Temperature(x) =46.1°F
+  The predicted value of riders(Y)=array([7673.46996918])
+  
+ *R2 Score:-
+ R-squared is a statistical measure that represents the goodness of fit of a regression model.
+ 
+ R2 score of this model is 0.6689033200692344. ie 66%.
+ 
+ Conclusion:-
+ 
   
 
 
