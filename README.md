@@ -106,8 +106,11 @@ F). The Average Temperature fell by an rider on Queensboro Bridge is found out t
 
 G). Every third person is crossing Queensboro Bridge.
 
-
+Pie Chart Explaning the Volume distribution of riders on all four bridges
 ![image](https://user-images.githubusercontent.com/111125394/227701153-12fa3c72-df03-4c4c-b748-e4e15caeee38.png)
+
+The most bicycle riders crossing the bridge everyday is Williamsburg Bridge with 34%.
+The least bicycle riders crossing the bridge everyday is Brooklyn Bridge with 17%.
 
   
 
